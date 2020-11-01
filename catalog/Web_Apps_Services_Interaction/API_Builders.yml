@@ -8,7 +8,6 @@ projects:
   - bldr
   - blueprinter
   - cache_crispies
-  - fast_jsonapi
   - grape
   - grapethor
   - jb
